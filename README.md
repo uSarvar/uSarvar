@@ -1,5 +1,5 @@
 # Hi there, I'm Sarvar Anvarovich 👋
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" width="333"/>
 </div>
 
