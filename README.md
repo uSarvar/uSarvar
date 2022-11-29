@@ -15,3 +15,4 @@
 - ⚡ Fun fact: ...
 -->
 ### Here is a brief introduction about me:
+Currently looking for a job as a Data Scientist
