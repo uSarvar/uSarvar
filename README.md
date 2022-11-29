@@ -1,4 +1,7 @@
 # Hi there, I'm Sarvar Anvarovich 👋
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" width="333"/>
+</div>
 
 <!--
 **uSarvar/uSarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,11 +13,13 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Here is a brief introduction about me:
+## Here is a brief introduction about me:
 Currently looking for a job as a Data Scientist
 
 ## Interests on AI, Data Science, Deep Learning, Machine Learning and related fields.
+
+<!-- ### 📫 How to reach me: -->
