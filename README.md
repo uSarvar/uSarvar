@@ -3,7 +3,7 @@
 <!--
 **uSarvar/uSarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here is a brief introduction about me:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,4 @@ Here is a brief introduction about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here is a brief introduction about me:
