@@ -16,3 +16,5 @@
 -->
 ### Here is a brief introduction about me:
 Currently looking for a job as a Data Scientist
+
+## Interests on AI, Data Science, Deep Learning, Machine Learning and related fields.
