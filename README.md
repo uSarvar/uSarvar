@@ -22,4 +22,7 @@ Currently looking for a job as a Data Scientist
 
 ## Interests on AI, Data Science, Deep Learning, Machine Learning and related fields.
 
-<!-- ### 📫 How to reach me: -->
+### 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarvardev)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sarvaranvarovich95@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-dodgerblue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Sarvardev)
