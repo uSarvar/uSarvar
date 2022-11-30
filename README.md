@@ -24,6 +24,7 @@ Currently looking for a job as a Data Scientist
 
 ### 📫 How to reach me:
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-dodgerblue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sarvarurazbayev)
+[![Streamlit Badge](https://img.shields.io/badge/-Streamlit-red?style=flat&logo=Streamlit&logoColor=white)](https://share.streamlit.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarvardev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarvaranvarovich95@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-dodgerblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sarvardev)
