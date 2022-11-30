@@ -3,6 +3,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="333"/>
 </div>
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="333"/>
+</div> -->
 
 <!--
 **uSarvar/uSarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +21,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Here is a brief introduction about me:
-Currently looking for a job as a Data Scientist
+## :man_technologist: &nbsp;Here is a brief introduction about me:
+I'm Junior Data Scientist from Tashkent, Uzbekistan.
 
 ## Interests on AI, Data Science, Deep Learning, Machine Learning and related fields.
 
