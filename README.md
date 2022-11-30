@@ -1,17 +1,13 @@
 # Hi there, I'm Sarvar Anvarovich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33">
+
 ![](https://komarev.com/ghpvc/?username=usarvar)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="333"/>
 </div>
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="333"/>
-</div> -->
 
 <!--
 **uSarvar/uSarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,10 +17,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## :man_technologist: &nbsp;Here is a brief introduction about me:
 I'm Junior Data Scientist from Tashkent, Uzbekistan.
 
 ## Interests on AI, Data Science, Deep Learning, Machine Learning and related fields.
+
+<!-- <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</p> -->
 
 ### 📫 How to reach me:
 <!-- [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-dodgerblue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sarvarurazbayev)
