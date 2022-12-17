@@ -34,7 +34,7 @@ I'm Junior Data Scientist from Tashkent, Uzbekistan.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarvaranvarovich95@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-dodgerblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sarvardev)
 
-### 🔭 You can see my projects here:
+### 🔭 My projects here:
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-dodgerblue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sarvarurazbayev)
 
 ### For some apps:
