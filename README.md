@@ -37,5 +37,5 @@ I'm Junior Data Scientist from Tashkent, Uzbekistan.
 ### 🔭 My projects here:
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-dodgerblue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sarvarurazbayev)
 
-### and for some apps   :
+### and for some apps  :
 [![Streamlit Badge](https://img.shields.io/badge/-Streamlit-red?style=flat&logo=Streamlit&logoColor=white)](https://share.streamlit.io) 
