@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=usarvar)
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="333"/>
-</div>
+</div> -->
 
 <!--
 **uSarvar/uSarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
