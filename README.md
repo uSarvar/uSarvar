@@ -1,6 +1,6 @@
 # Hi there, I'm Sarvar Anvarovich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33">
 
-![](https://komarev.com/ghpvc/?username=usarvar)
+<!-- ![](https://komarev.com/ghpvc/?username=usarvar) -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="333"/>
